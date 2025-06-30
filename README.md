@@ -51,6 +51,3 @@ Submission
 
 - **Nama**: [Bela Ismawati Nuraisa]  
 - **GitHub**: [https://github.com/belaismawati]  
-
----
->>>>>>> 6c32bb6 (Initial commit)
