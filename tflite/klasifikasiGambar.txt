@@ -3,6 +3,5 @@ Crispy Chicken
 Donut 
 Fries 
 Hot Dog 
-Sandwich 
-Taco 
+Sandwich  
 Taquito
